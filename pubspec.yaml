@@ -1,0 +1,44 @@
+name: love_magic
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_sound: ^9.9.5
+  path_provider: ^2.1.4
+  image_picker: ^1.1.2
+  google_fonts: ^6.2.1
+  provider: ^6.1.2
+  http: ^1.2.2
+  cupertino_icons: ^1.0.2
+  flutter_image_compress: ^2.3.0
+  image: ^4.2.0
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  assets:
+    - assets/img1.jpeg
+    - assets/img2.jpeg
+    - assets/img3.jpeg
+    - assets/img4.jpeg
+    - assets/icon.jpeg
+    - assets/mygif.gif
+    - assets/chasing-horizons-228832.mp3
+    - assets/island-breeze-214305.mp3
+    - assets/hip_hop.mp3
+    - assets/classic.mp3
+    - assets/dancing_in_the_start_dust.mp3
+    - assets/chris_with_you_my_love.mp3
